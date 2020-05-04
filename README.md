@@ -13,12 +13,11 @@ A laravel 7 development environment
 git clone git@github.com:tmalvern/docker_laravel7.git docker_laravel7
 ```
 
-2. Install laravel code in siteroot folder
+2. Install laravel code in siteroot folder. Follow instruction on this link https://laravel.com/docs/7.x#installing-laravel
 
 ```
 cd docker_laravel7
-https://laravel.com/docs/7.x#installing-laravel
-
+mkdir siteroot
 ```
 
 3. Start containers
