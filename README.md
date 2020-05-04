@@ -10,7 +10,7 @@ A laravel 7 development environment
 1. Clone this repository
 
 ```
-git clone git@github.com:kenneth-hendricks/docker_moodle.git docker_laravel7
+git clone git@github.com:tmalvern/docker_laravel7.git docker_laravel7
 ```
 
 2. Install laravel code in siteroot folder
